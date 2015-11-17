@@ -25,7 +25,7 @@ if (($_FILES["file"]["type"] == "application/octet-stream")&&($_FILES["file"]["s
 }
 ?>
 
-<html lang="zh-CN>
+<html lang="zh-CN">
 <head>
 <meta charset="utf-8">
 </head>
